@@ -35,6 +35,27 @@ The mobile application allows users to:
 5. Booking Confirmation
 6. Success Screen
 
+## 🖥 Desktop Screens
+
+### Onboarding
+![Onboarding](Onboarding.png)
+
+### Login
+![Login](Login.png)
+
+### Homepage
+![Homepage](homepage.png)
+
+### Booking
+![Booking](Booking.png)
+
+### Conformation
+![Conformation](Conformation.png)
+
+### Success
+![Success](Success.png)
+
+
 ## UX Decisions
 
 ### Simple Navigation
